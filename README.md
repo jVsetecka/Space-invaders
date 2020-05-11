@@ -5,7 +5,6 @@ Only levels 1-3 are working
 
 Use arrows for movement to left and right and space for shooting
 
-**Please report any bugs!**
 
 ## Getting started
 First download PyGame module:
