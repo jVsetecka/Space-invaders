@@ -1,6 +1,8 @@
 # Space-invaders
 Simple game in Python using PyGame module
 
+Only levels 1-3 are working
+
 Use arrows for movement to left and right and space for shooting
 
 **Please report any bugs!**
