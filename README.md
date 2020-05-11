@@ -1,8 +1,8 @@
 # Space-invaders
 Simple game in Python using PyGame module
 
-
 Use arrows for movement to left and right and space for shooting
+**Please report any bugs!**
 
 ## Getting started
 First download PyGame module:
@@ -15,4 +15,3 @@ Download repository and run space_invaders.py in your terminal:
 python space_invaders.py
 ```
 
-**Please report any bugs!**
